@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    height: 30px;
+    background-color: aqua;
+}
+.loginbutt{
+    background-color: transparent;
+    border: none;
+}
+.createbutt{
+    background-color: transparent;
+    border: 1px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+.imgstyl{
+    display: inline-block;
+    width: 29%;
+    height: 300px;
+}
+.detsilsTab{
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    font-size: 18px;
+}
